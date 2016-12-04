@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: IWESEP2017.aux
+The style file: IEEEtran.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: SanerEra.bib
+I was expecting a `,' or a `}'---line 201 of file SanerEra.bib
+ :  
+ :  @inproceedings{Sun:2010,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 274 of file SanerEra.bib
+ :  
+ :  keywords = {bug report assignment, bug triage, issue tracking, machine learning, problem tracking}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+
+Done.
+You've used 19 entries,
+            4039 wiz_defined-function locations,
+            949 strings with 11605 characters,
+and the built_in function-call counts, 16223 in all, are:
+= -- 1212
+> -- 400
+< -- 121
++ -- 211
+- -- 69
+* -- 784
+:= -- 2283
+add.period$ -- 55
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 321
+cite$ -- 19
+duplicate$ -- 1171
+empty$ -- 1488
+format.name$ -- 86
+if$ -- 3803
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 227
+newline$ -- 82
+num.names$ -- 19
+pop$ -- 581
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 1240
+stack$ -- 0
+substring$ -- 751
+swap$ -- 901
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 19
+warning$ -- 0
+while$ -- 75
+width$ -- 21
+write$ -- 205
+(There were 2 error messages)
